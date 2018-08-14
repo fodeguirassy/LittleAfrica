@@ -8,6 +8,7 @@
 /build
 /captures
 .externalNativeBuild
+.idea
 .idea/caches/
 .idea/checkstyle-idea.xml
 .idea/codeStyles/
@@ -18,4 +19,3 @@
 gradle/wrapper/gradle-wrapper.jar
 gradlew
 gradlew.bat
-
