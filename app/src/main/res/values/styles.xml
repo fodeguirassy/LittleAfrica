@@ -6,6 +6,10 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarStyle">@style/ActionBar</item>
     </style>
 
+    <style name="ActionBar">
+     <item name="android:background">@drawable/background_action_bar_gradient</item>
+    </style>
 </resources>
